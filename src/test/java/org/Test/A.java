@@ -10,4 +10,14 @@ System.out.println("sampName");
 private void employee() {
 System.out.println("empName");
 }
+private void frame() {
+System.out.println("e");
 }
+private void web() {
+System.out.println("name");
+}
+private void com() {
+System.out.println("comp");
+}
+}
+
