@@ -19,4 +19,18 @@ System.out.println("Name");
 private void selenium() {
 System.out.println("Names");
 }
+private void frame() {
+System.out.println("e");
 }
+private void web() {
+System.out.println("name");
+}
+private void com() {
+System.out.println("comp");
+}
+}
+
+
+
+
+
